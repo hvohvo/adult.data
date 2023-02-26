@@ -1,2 +1,0 @@
-# adult.data
-new repo
